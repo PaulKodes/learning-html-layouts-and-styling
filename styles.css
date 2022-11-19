@@ -1,0 +1,36 @@
+header {
+    margin-bottom: 80px;
+    text-align: center;
+}
+.main {
+    margin: 20px auto;
+    background-color: rgba(0,255,255,0.1);
+    width:500px;
+    padding: 5px 30px;
+}
+.main h3 {
+    margin-top: 20px;
+    display: block;
+    padding-top: 10px;
+}
+.main .mobyD {
+    float: left;
+    height: 175px;
+    margin: 0 40px 10px 0;
+}
+.mobyParagraph {
+    width: 500px;
+}
+blockquote {
+    font-style: italic;
+    font-size: 20px;
+}
+blockquote .bqParagraph {
+    margin: 0;
+}
+blockquote span {
+    font-style: normal;
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff0000;
+}
